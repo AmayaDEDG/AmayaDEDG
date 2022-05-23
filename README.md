@@ -1,4 +1,4 @@
-Hi 👋 My name is Amaya De Esesarte
+Hi 👋 My name is Amaya De Esesarte Díaz González
 ==================================
 
 Front-end developer
