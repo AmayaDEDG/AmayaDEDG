@@ -1,14 +1,8 @@
-Hi 👋 My name is Amaya De Esesarte Díaz González
+Amaya De Esesarte Díaz González
 ==================================
 
 Front-end developer
 -------------------
-
-I've been learning code for some months now. Currently, I'm working with JavaScript.
-
-* 🌍  I'm based in Mexico City
-* ✉️  You can contact me at [amaya.dedg@gmail.com](mailto:amaya.dedg@gmail.com)
-* 🧠  I'm learning React.js
 
 <a href="https://www.github.com/AmayaDEDG" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AmayaDEDG?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
