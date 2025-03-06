@@ -1,4 +1,4 @@
-Amaya De Esesarte Díaz González
+Amaya DEDG
 ==================================
 
 Front-end developer
